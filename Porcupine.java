@@ -1,3 +1,4 @@
+/*java file to find next porcupine number*/
 public class Porcupine {
 
 	public static void main(String[] args) {
