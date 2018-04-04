@@ -17,6 +17,7 @@ public class Porcupine {
 	}
 	private static int nextPorcupine(int n) {
 		int toCheck=n;
+         System.out.println("In function");
 		while(true) {
 			toCheck++;
 			if(isPrime(toCheck)==1 && toCheck%10==9) {
