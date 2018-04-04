@@ -2,6 +2,7 @@
 public class Porcupine {
 
 	public static void main(String[] args) {
+		System.out.println("Hello world!");
 		System.out.println(nextPorcupine(150));
 	}
 	private static int isPrime(int n) {
