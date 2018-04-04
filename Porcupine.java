@@ -5,6 +5,7 @@ public class Porcupine {
 		System.out.println("Hello galaxy!");
         System.out.println("Ginger");
         System.out.println("Salad");
+        System.out.println("Plumber");
 		System.out.println(nextPorcupine(150));
 	}
 	private static int isPrime(int n) {
