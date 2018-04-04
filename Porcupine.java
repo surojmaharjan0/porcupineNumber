@@ -3,9 +3,7 @@ public class Porcupine {
 
 	public static void main(String[] args) {
 		System.out.println("Hello galaxy!");
-
         System.out.println("Ginger");
-
         System.out.println("Salad");
 		System.out.println(nextPorcupine(150));
 	}
